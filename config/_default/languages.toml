@@ -6,6 +6,14 @@
     languageISO = "EN"
     languageTag = "en-US"
 
+[ru]
+  languageName = "Russian"
+  contentDir = "content/ru"
+  weight = 12
+  [ru.params]
+    languageISO = "RU"
+    languageTag = "ru-RU"
+
 [de]
   languageName = "German"
   contentDir = "content/de"
